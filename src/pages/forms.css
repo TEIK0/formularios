@@ -1,0 +1,53 @@
+form {
+    background-color: white;
+    width: 90vh;
+    padding: 5vh;
+    border-radius: 20px;
+  }
+
+text {
+    color: #B635D7;
+}
+
+h1 {
+    color: #B635D7;
+}
+
+.textField {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.select {
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 80%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #B635D7;
+    color: white;
+    border: none;
+}
+
+.forgot {
+    color: #B635D7;
+    display: inline-block;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.hint {
+    display: inline-block;
+    background-color: white;
+    width: 90vh;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}

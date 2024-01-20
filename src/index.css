@@ -1,0 +1,21 @@
+
+body {
+  background: rgb(183, 181, 181);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 30px;
+}
+
+label {
+  display: block;
+
+}
+
+span {
+  color: tomato;
+  display: block;
+  font-size: 20px;
+  margin-bottom: 15px;
+}

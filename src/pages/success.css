@@ -1,0 +1,17 @@
+.success-cont {
+    background-color: white;
+    width: 90vh;
+    padding: 5vh;
+    border-radius: 20px;
+    height: 70vh;
+  }
+
+.registered {
+  font-size: 50px;
+  text-align: center;
+}
+
+.ready {
+  font-size: 30px;
+  text-align: center;
+}
