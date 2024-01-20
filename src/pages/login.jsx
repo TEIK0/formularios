@@ -21,7 +21,7 @@ function login() {
     
     
     const onSubmitFunction = handleSubmit((data) => {
-        if(errors.email || errors.password || errors.confirmPassword){
+        if(errors.email || errors.password){
             console.log(errors)
         }else if (data.password != validPassword || data.email != validEmail){
 
